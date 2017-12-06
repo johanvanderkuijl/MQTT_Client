@@ -1,0 +1,10 @@
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\obj\Debug\MQTT Client.csprojResolveAssemblyReference.cache
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\obj\Debug\MQTT_Client.MainForm.resources
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\obj\Debug\MQTT Client.csproj.GenerateResource.Cache
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\bin\Debug\MQTT Client.exe.config
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\bin\Debug\MQTT Client.exe
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\bin\Debug\MQTT Client.pdb
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\bin\Debug\M2Mqtt.dll
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\bin\Debug\Mqtt.dll
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\obj\Debug\MQTT Client.exe
+\\fspaka01\userdata1$\uau556\Documents\SharpDevelop Projects\MQTT Client\MQTT Client\obj\Debug\MQTT Client.pdb
